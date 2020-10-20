@@ -11,8 +11,21 @@
 ★★  Filius Bonacci´s Legend<br>
 ★★  Dominoes<br>
 ★★★  Integral Exercise<br>
-★★★  Crazy for maths<br><br>
+★★★  Crazy for maths<br>
 
-**Final challenge:** Collatz conjecture<br>
+**Final challenge:** Collatz conjecture<br><br>
 
+## Class 2
+★  Call me  ∂/∂x , or diff for short<br>
+★ Mr. Owl Ate My Metal Worm<br>
+★★ The Vanilla and Chocolate Ice Cream Problem<br>
+★★  Unite and Conquer<br>
+★★  Miguel´s Oranges<br>
+★★  Number casting<br>
+★★★  Dr. Chaos<br>
+★★★  Election Day<br>
+★★★★  Quiero Retruco<br><br>
 
+**Final challenge:** Python's ABC<br><br>
+
+## Class 3
