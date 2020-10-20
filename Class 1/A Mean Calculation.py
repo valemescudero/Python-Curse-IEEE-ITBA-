@@ -1,3 +1,11 @@
+#  Calculating a student's grade is a daily task for a professor. It is usually done by hand or Excel. This time we are doint it with Python.
+
+#  Write a function that calculates the average of three grades and returns that value.
+#  Create a second similar function that returns a grade giving the first test score a 20% of importance, 50% to the second and 30% to the third.
+#  Call each function three times with different grades and verify, through an if instruction,
+#  whether the student has passed or failed the subject in each case having 4 as the lowst passing grade.
+
+
 def test():
   for i in range(3):
     grades = [0,0,0]
