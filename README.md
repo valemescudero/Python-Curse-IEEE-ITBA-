@@ -3,21 +3,21 @@
 ★ - Difficulty
 <br><br>
 
-![Class 1](https://gm1.ggpht.com/QMCHZCXVvkckRhPuXujOAvoNWQY7HQDi95HSH3FyaASEaK0_2v3k0VjH5Vxh1ZZXvR-Wabz7eEhKWeeHYiV1vYIvonjVjzSGRXMigCHJowi86Y2JZ6wwQxltefHx_GxCIK7686pjsrxYoY0DBfYIVccsaW2orTT4M2UNueXSRgWMXw35ENNzCuv8ylV-yH2D2F5tPgWmNzWa-RKFXYqcHtL87h7tEgCYwJWZT2h9Itab6C0NBDlbBSI9-VHYpb8FJvu-cYIPgd-i0qrnFA2pwEl2Ae939NwlBA-Ozv-1vLgPjCcL7i7ZVGctKL-TvdGBWxsZKAoByKo3BIDiPXaYZlRMXRoKop8c7RjGPEFXdBE770zCZRoxnx2uNgCNvLS9Ps4HCOU_6AVTBcxyw1uRmZPnT8khGk82urlXacbenpK0n4mF6eLma7Y05MoJJhh78_DVdZml69vVpaNEHZkw54c2b5NGtZKIQ-oF9YdncRvoMmLMrpGMGyBjRSraWgr07ZT0kwVgu-7f3WVQXJ-W8xO7ZsUNmjDUTgZg2YeEGxulstVObKoPbVTJwNsQba0AnKM8hYSH0iZ2TNjRPgwQYOEa0N6HBhzKkntLbahtekDYLpRePwFjZtLEiscDXK5RkKWcSD4s4_bp0RqSqkhv0DfZ37EP9MXz01Uw0C7PTw6wpK0qP0gQQvm9nwWDLW-Uvzfgvn0yVyZQUDkBPaOPGSOAIKjDraKu6GProVUWXUaQX56xwLpgItTUcXBW6L4OekJTUA=s0-l75-ft-l75-ft)
+![Class 1](https://mail.google.com/mail/u/1?ui=2&ik=6228534fe6&attid=0.2&permmsgid=msg-f:1679653555329548212&th=174f54026723bfb4&view=fimg&sz=s0-l75-ft&attbid=ANGjdJ-KR_iTWk-KAIWeeNnufVKemqXm8CYkQHveJRxtGIOzVltG7ngm-qNUprZgOU2QLJriy0wqsD5Q4PIGShUZftXJjQaXNdrRNEdNIQ7mP814slue9jYhGoz2tBk&disp=emb&realattid=ii_kfvjei160)
 
-★ A Mean Calculation
-★ A Good e-stimate
-★★ Ingemática Interview Exercise
-★★  Primality Test
-★★  Filius Bonacci´s Legend
-★★  Dominoes
-★★★  Integral Exercise
-★★★  Crazy for maths
+★ A Mean Calculation<br>
+★ A Good e-stimate<br>
+★★ Ingemática Interview Exercise<br>
+★★  Primality Test<br>
+★★  Filius Bonacci´s Legend<br>
+★★  Dominoes<br>
+★★★  Integral Exercise<br>
+★★★  Crazy for maths<br><br>
 
-**Final challenge:** Collatz conjecture
+**Final challenge:** Collatz conjecture<br>
 
-![Class 2](https://gm1.ggpht.com/G57vGeLmDCEr1lcRpBEoiRVOibTpLnbyTzjXWWoclA6CRqNFMVjepntMOgyhB2JPG4dROgMG1swqnXuqwaK6GT6AhpULPLA75n9lfVUNi8rKbzg4WEPUFoAdpeMbjAvyaNThgQJwaprowMxht2SLZ9kFOZxwLT6m7WOBZGYl6RFRiFdh0HcarGH9PaFcw0c53IeLYjqgwGRRs5qj_LXJfoZRF6jD0TCIhehbORgzQAz52YKBzUVuUKsQWJAw9t10xlyYiKtg9SHGKDO5z3GL6yIJGOTvs6OtVBqdZODJ7apiCrZq78emfI_SfexCSF5HJHRM0hBS2orGMEBS5GYbKKaEkav4tc5Tv-_8uJ2EzWI1tHoAi4evawBnJCJ9WLzRukSuOKJvisL3e6Te-eWUHmitIUUrE2dDdLKhtZ-4A9Vavw1kTVeLkzDYP4AXHdphrm84-wZ5AmjLINxZOtiiiAJw6LU5jIHH3l-u2ZvcZaZFp2RNZl1-XyFBN03JI4VQYb1XdfQrvAXOc54nkSFrryXoptoaVtT2AzqDfXm7EuW-3V_9A2h0W8uEQheRgyvU-dI3fw-02R7f-d9o4-xlgGc8tmlDbnFMr2IHbcd-LW_KTZvnFzT_DY9ova28ZHOXwYANoDZaBVixSDDsPR7wYi7XiMvC728nrCnWsaO_PZAsE1CTDkHrBFC7cdVGy9af3VNPImPHBbie7NB70U_BFSey3J-eVT786rI4KQbPM8XHyZITt5z0eEFNuYlTKXgzRaWgh4s=s0-l75-ft-l75-ft)
+![Class 2](https://mail.google.com/mail/u/1?ui=2&ik=6228534fe6&attid=0.0.3&permmsgid=msg-f:1680252964311649092&th=1751752b2e97cb44&view=fimg&sz=s0-l75-ft&attbid=ANGjdJ_vaK9h52cxjOD5dBOrc_rZ314RsA7GXty5ukvx25hioyN8sXTthda9VGp1wZdDgyM9ZSehBbawdBOVl8a0bu6_au11YvBSS1zbC4nN8U1-cZj-KzXY9LnDz7U&disp=emb&realattid=ii_kg4f1c3x0)
 
 <br>
-![Online Python Course - 2nd Edition  (IEEE-ITBA)](https://gm1.ggpht.com/Tnc3HJBpmUevzIhNAzxaL272fqvOj3AT1c_JKiz_3oxsO0F_-HYHw6Va7OTJppSbKbXdJbGiWM4zdDvXw90SC0wnV2rblzwncCoF9J6o8cXC5V1QTP5J9E8OJK2htltuLwP1-uE5uo4Jn2UJdpI01puNonQdQaUdWwPFIcSy6ZWNSBBmA-FwcmEbDq8aPd9LSR6ILVc24mdUmrSfskMhIwcqp8qvkhQ22AVEpR9JiVPn4nYuqG2738un2FKi_eXzZuwYo4_zmwi3g7ThAp4MFdIOw7cR_tJpDqrL2r1zBWZ_uLVXBQZJsBScx6_-aLFkkYjRav_F8u5b4zSJT3dViMkIxFyRsa-8PrXMY1SF20hReOoT7cbak9tyo8D9IELG2YoBfFl-oL_o1_D_8633_1_00AWmILmelVIX_x56vguPnhaJFP8-iwrsZRb12Kis2XET0zHEI-d8ztvjNa4dIPGk6n4x98bgyMJmzEp02Z1sztXrncgo4T438sTr_6ELueW4jBAnlkj5cu08rpVO9QHo55SinivU6BtzPZ4VUhNkn-DJ-p-qap0e1j3YrWuP_ObGt-o3jTsBi9XKO8G15w8kTbpPnbgJSVwBrPb2C-U26_KMytajCE6O8YdGanAStlayyOmOhbQkQZHdo5P1qhhSFScHVm8IUyCNGj7-CAGI1T38h13aOwYVO_Gpwue7gJ5G8b4ynY8wRoqhhQoigpqkCdKTnSNA4WoUYuFH979Z_IpAVap4orTB8Lqe8nRdoLSGsA=s0-l75-ft-l75-ft)
+![Online Python Course - 2nd Edition  (IEEE-ITBA)](https://mail.google.com/mail/u/1?ui=2&ik=6228534fe6&attid=0.1&permmsgid=msg-f:1679578933024807535&th=174f10240b2c5a6f&view=fimg&sz=s0-l75-ft&attbid=ANGjdJ-2xxBiKw4AHLASwvX5zKQRcIzCPphtueexFz8WJPrLyZomUFSiyE_mYs66zzeSigT_mOstJZeth_l7ONDapd399E9FoQFYbe_PUIQlF1vbGYfiwnXBRqeq-zs&disp=emb&realattid=ii_kfuajg089)
 
