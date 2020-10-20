@@ -3,6 +3,7 @@
 #  N5 for multiples of 5
 #  and N3N5 for multiples of both 3 and 5
 
+
 def printNums():
   for i in range(100):
     print(i + 1)
