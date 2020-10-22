@@ -1,16 +1,32 @@
-maxNum = int(input())
+def num_pieces(max_num):
+  pieces = max_num + 1
+  for i in range(max_num):
+    pieces += (i + 1)
+  return pieces
 
-fichas = maxNum + 1
-for i in range(maxNum):
-  fichas += (i + 1)
-
-print(fichas)
-
-def game():
+def dom_pieces():
   max_num = int(input())
-  x = 0
-  for i in range(max_num+1):
-    for j in range(x,max_num+1):
-      print(i, "-", j)
-    x = x+1
-game()
+  pieces = num_pieces(max_num)
+  print(pieces)
+
+def max_value():
+  max_num = 0
+  x = int(input("Enter number of pieces\n"))
+  pieces2 = 0
+
+  while True:
+    pieces2 = num_pieces(max_num)
+    if pieces2 >= x:
+      break
+    if x != pieces2:
+      max_num = max_num + 1
+
+  if x == pieces2:
+    print("Max num :", max_num)
+  else:
+    print("No game possible\n")
+  sguir = int(input("presione 1 para continuar\n"))
+  if sguir == 1:
+    max_value()
+
+max_value()
