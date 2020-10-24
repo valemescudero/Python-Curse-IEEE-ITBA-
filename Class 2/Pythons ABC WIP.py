@@ -8,7 +8,7 @@
 #  For instance,
 #  translate( "𐌀𐌋𐌐𐌇𐌀𐌁𐌄𐌕" ) => "ALPHABET"
 #  translate( "𐌇𐌄𐌋𐌋𐌏!" ) => "HELLO!"
-#  translate("𐌖𐌄𐌔 𐌏𐌓 𐌍𐌏? 𐌌𐌌𐌌... 𐌏𐌊.") => "YES OR NO? MMM... OK."
+#  translate("Y𐌄𐌔 𐌏𐌓 𐌍𐌏? 𐌌𐌌𐌌... 𐌏𐌊.") => "YES OR NO? MMM... OK."
 
 #  Correspondence between alphabets:
 #  Archaic : Modern
@@ -16,5 +16,23 @@
 #  '𐌇' : 'H', '𐌉' : 'I', '𐌊' : 'K', '𐌋' : 'L', '𐌌' : 'M', '𐌍' : 'N', '𐌏' : 'O',
 #  '𐌐' : 'P', '𐌒' : 'Q', '𐌓' : 'R', '𐌔' : 'S', '𐌕' : 'T', '𐌖' : 'V', '𐌗' : 'X'
 
+alpha_translit = { 
+    '𐌀' : 'A', '𐌁' : 'B', '𐌂' : 'C', '𐌃' : 'D', '𐌄' : 'E', '𐌅' : 'F', '𐌆' : 'Z',
+    '𐌇' : 'H', '𐌉' : 'I', '𐌊' : 'K', '𐌋' : 'L', '𐌌' : 'M', '𐌍' : 'N', '𐌏' : 'O',
+    '𐌐' : 'P', '𐌒' : 'Q', '𐌓' : 'R', '𐌔' : 'S', '𐌕' : 'T', '𐌖' : 'V', '𐌗' : 'X'
+}
 
+def transliterate(text):
+    transliteration = ''
+    for character in text:
+        if character in alpha_translit:
+            transliteration += alpha_translit[character]
+        else:
+            transliteration += character
+    return transliteration
+
+text = input("Please, enter your archaic Latin text below to begin transliteration:\n")
+transliteration = transliterate(text)
+print("")
+print("Transliteration:", transliteration)
 
