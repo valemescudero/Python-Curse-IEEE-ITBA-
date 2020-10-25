@@ -1,5 +1,5 @@
-#  Definir una función que detecte si una palabra es un palíndromo y devuelve True o False.
-#  Modificar la función para ignorar espacios, signos de puntuación, y que no haga distinción entre mayúsculas y minúsculas (pueden usar str.lower()). Pueden usar el nombre del desafío como un palindromo de ejemplo.
+#  Write a function to find out whether a given word or sentence is a palindrome and return True or False accordingly
+#  The function should ignore spaces and punctuation marks and make no distinction between lower and uppercase.
 
 def pal(str):
   MARKS = set("ºª\!\"@·#$~%€&¬/()='?¡¿`^[+*]´¨{},;.:-_<>")
