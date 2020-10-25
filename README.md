@@ -11,7 +11,7 @@
 ★★  Filius Bonacci´s Legend<br>
 ★★  Dominoes<br>
 ★★★  Integral Exercise<br>
-★★★  Crazy for maths<br>
+★★★  Crazy for Maths<br>
 
 **Final challenge:** Collatz conjecture<br><br>
 
@@ -21,7 +21,7 @@
 ★★ The Vanilla and Chocolate Ice Cream Problem<br>
 ★★  Unite and Conquer<br>
 ★★  Miguel´s Oranges<br>
-★★  Number casting<br>
+★★  Number Casting<br>
 ★★★  Dr. Chaos<br>
 ★★★  Election Day<br>
 ★★★★  Quiero Retruco<br><br>
