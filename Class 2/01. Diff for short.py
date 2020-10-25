@@ -1,3 +1,7 @@
+#  Write a function to take a list of n numbers and return the discrete derivative with the differences between each number and its preceding when there is one.
+#  The new list should thusly be one number shorter.
+
+
 def derivative(list):
   new_list = []
   
