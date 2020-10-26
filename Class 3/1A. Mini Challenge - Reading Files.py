@@ -2,7 +2,10 @@
 #  This file has two columns, Team and Score. Calculate for each team the goal difference and print them
 
 
-! wget "https://raw.githubusercontent.com/IEEESBITBA/Curso-Python/master/Clase_3_datos/Tabla1.xlsx"
+url = "https://raw.githubusercontent.com/IEEESBITBA/Curso-Python/master/Clase_3_datos/Tabla1.xlsx"
+import wget as w
+w.wget(url)
+
 
 import pandas as pd
 file = pd.read_excel("Tabla1.xlsx")
