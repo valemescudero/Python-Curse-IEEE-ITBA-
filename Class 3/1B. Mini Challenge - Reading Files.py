@@ -1,6 +1,11 @@
 #  Read file Tabla1.xlsx which contains some soccer championship scores and determine the first and last position based on them.
 
 
+url = "https://raw.githubusercontent.com/IEEESBITBA/Curso-Python/master/Clase_3_datos/Tabla1.xlsx"
+import wget as w
+w.wget(url)
+
+
 import pandas as pd
 file = pd.read_excel("Tabla1.xlsx")
 data = archivo.to_dict("records")
